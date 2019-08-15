@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#2d3535</color>
+    <color name="colorPrimaryDark">#1B2020</color>
+    <color name="colorAccent">#323A3B</color>
+    <color name="colorProgress">#045e5e</color>
+    <color name="colorPrimaryText">#FFFFFF</color>
+    <color name="colorSecondaryText">#FDFDFD</color>
+    <color name="colorTertiaryText">#666666</color>
+    <color name="colorTransparentBackground">#D72D3535</color>
+</resources>
